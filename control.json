@@ -1,0 +1,7 @@
+{
+  "global": { "activo": true, "mensaje": "Acceso suspendido por la administradora." },
+  "licencias": {
+    "granada": { "activo": true, "caduca": "2026-12-31" },
+    "ucri":    { "activo": true, "caduca": null }
+  }
+}
