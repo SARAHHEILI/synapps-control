@@ -1,7 +1,10 @@
 {
   "global": { "activo": true, "mensaje": "Acceso suspendido por la administradora." },
   "licencias": {
-    "granada": { "activo": true, "caduca": "2026-05-30" },
-    "ucri":    { "activo": true, "caduca": null }
+    "granada":     { "activo": true, "caduca": "2026-12-31" },
+    "ucri":        { "activo": true, "caduca": null },
+    "separ":       { "activo": true, "caduca": "2026-12-31" },
+    "neumomadrid": { "activo": true, "caduca": "2026-12-31" },
+    "hufjd":       { "activo": true, "caduca": "2026-12-31" }
   }
 }
