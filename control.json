@@ -1,10 +1,14 @@
 {
-  "global": { "activo": true, "mensaje": "Acceso suspendido por la administradora." },
+  "global": {
+    "activo": true,
+    "mensaje": "Acceso suspendido por la administradora. Contacte con la Dra. Sarah Heili Frades."
+  },
   "licencias": {
-    "granada":     { "activo": true, "caduca": "2026-12-31" },
-    "ucri":        { "activo": true, "caduca": null },
-    "separ":       { "activo": true, "caduca": "2026-06-07" },
-    "neumomadrid": { "activo": true, "caduca": "2026-12-31" },
-    "hufjd":       { "activo": true, "caduca": "2026-06-18" }
+    "urgencias":   { "activo": true, "caduca": "2026-12-31" },
+    "uci":         { "activo": true, "caduca": "2026-12-31" },
+    "reanimacion": { "activo": true, "caduca": "2026-12-31" },
+    "ucri":        { "activo": true, "caduca": "2026-12-31" },
+    "simulacion":  { "activo": true, "caduca": "2026-12-31" }
   }
 }
+
