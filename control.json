@@ -8,7 +8,7 @@
     "uci":         { "activo": true, "caduca": "2026-12-31" },
     "reanimacion": { "activo": true, "caduca": "2026-12-31" },
     "ucri":        { "activo": true, "caduca": "2026-12-31" },
-    "simulacion":  { "activo": true, "caduca": "2026-12-31" }
+    "simulacion":  { "activo": true, "caduca": "2026-12-31" },
+    "MAX-UCRI":    { "activo": true, "caduca": "2026-12-31" }
   }
 }
-
